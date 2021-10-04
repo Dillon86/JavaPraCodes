@@ -24,3 +24,16 @@
 
     * 作业使用HttpClient访问http://localhost:8801，代码见week2模块下的HttpServer01.java和HttpClientTest.java
 
+# 第三周作业
+
+* 1.（必做）整合你上次作业的 httpclient/okhttp；
+
+
+    * 代码的位置在子模块week3：/src/main/com/home/client包路径下
+
+
+* 3.（必做）实现过滤器。
+
+
+    * 代码的位置在子模块week3：/src/main/com/home/gateway/filter包路径下
+
